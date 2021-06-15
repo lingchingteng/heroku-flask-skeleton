@@ -1,0 +1,4 @@
+Flask
+gunicorn
+bootstrap-flask
+python-dotenv
